@@ -1,0 +1,13 @@
+sample1-sample4: highly similar
+sample5-sample8: fairly similar
+sample9-sample12: somewhat similar
+sample13-sample24: dissimilar
+
+Seq 1: 1,5,9,13,14,15
+Seq 2: 2,6,10,16,17,18
+Seq 3: 3,7,11,19,20,21
+Seq 4: 4,8,12,22,23,24
+
+Form 1: Seq 1 + Seq 2
+Form 2: Seq 2 + Seq 3
+Form 3: Seq 3 + Seq 1
